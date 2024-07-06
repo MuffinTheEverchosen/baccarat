@@ -1,0 +1,3 @@
+/home/muffin/Documents/baccart/CMakeFiles/game.dir
+/home/muffin/Documents/baccart/CMakeFiles/edit_cache.dir
+/home/muffin/Documents/baccart/CMakeFiles/rebuild_cache.dir
